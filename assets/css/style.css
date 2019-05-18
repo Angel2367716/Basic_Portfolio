@@ -1,0 +1,25 @@
+img {
+    float: left;  
+}
+
+p {
+    clear: both;
+}
+
+
+.links {
+    float: right;    
+}
+
+a:hover {
+    color: red;
+
+}
+
+a:active {
+    color: green;
+}
+
+a:visited {
+    color: yellow;
+}
